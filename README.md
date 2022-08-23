@@ -27,3 +27,8 @@ I am an aspiring Full Stack Developer from Los Angeles.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Bertalli-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julianbertalli/)
 
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" />&nbsp;
+</div>
