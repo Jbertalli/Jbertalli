@@ -21,6 +21,8 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+---
+
 ### :man_technologist: About Me:
 
 I am an aspiring Full Stack Developer from Los Angeles.
@@ -47,3 +49,9 @@ I am an aspiring Full Stack Developer from Los Angeles.
 </div>
 
 ---
+
+### :fire: My Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jbertalli&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jbertalli)](https://github.com/anuraghazra/github-readme-stats)
