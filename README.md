@@ -27,8 +27,23 @@ I am an aspiring Full Stack Developer from Los Angeles.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Bertalli-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julianbertalli/)
 
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS5" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" width="40" height="40" />&nbsp;
 </div>
+
+---
