@@ -35,7 +35,7 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jbertalli&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 </div>
 
-<img src="" width="300" />
+<img src="https://github.com/Jbertalli/Jbertalli/blob/main/ipad_recording.gif?raw=true" width="300" />
 
 <!--
 
