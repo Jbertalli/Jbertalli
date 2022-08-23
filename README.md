@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :man_technologist: About Me:
+### :man_technologist: About Me
 
 I'm an aspiring Full Stack Software Engineer from Los Angeles.
 
@@ -11,7 +11,7 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
 
 ---
 
-### :hammer_and_wrench: Languages, Tools, & Technologies:
+### :hammer_and_wrench: Languages, Tools, & Technologies
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" width="40" height="40" />&nbsp;
@@ -28,6 +28,13 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" width="40" height="40" />&nbsp;
 </div>
 
+---
+
+### 📊 Most Used Languages
+<div align="left">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jbertalli&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+</div>
+
 <!--
 
 ---
@@ -39,10 +46,3 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jbertalli)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
-
----
-
-<div align="left">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jbertalli&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-</div>
-
