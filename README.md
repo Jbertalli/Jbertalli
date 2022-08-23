@@ -11,7 +11,7 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools:
+### :hammer_and_wrench: Languages, Tools, & Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" width="40" height="40" />&nbsp;
