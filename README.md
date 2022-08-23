@@ -5,7 +5,7 @@
 
 ### :man_technologist: About Me:
 
-I'm an aspiring Full Stack Developer from Los Angeles.
+I'm an aspiring Full Stack Software Engineer from Los Angeles.
 
 - :mailbox: &nbsp;Reach me at <b>Julian.bertalli9@gmail.com</b> or <b>[Linkedin](https://www.linkedin.com/in/julianbertalli/)</b>
 
