@@ -20,3 +20,10 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+### :man_technologist: About Me:
+
+I am an aspiring Full Stack Developer from Los Angeles.
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Bertalli-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julianbertalli/)
+
