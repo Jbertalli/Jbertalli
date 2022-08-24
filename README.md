@@ -86,6 +86,4 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jbertalli&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jbertalli)](https://github.com/anuraghazra/github-readme-stats)
-
 -->
