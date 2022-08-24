@@ -41,6 +41,13 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
 
 <img src="https://github.com/Jbertalli/Jbertalli/blob/main/ipad_recording.gif?raw=true" width="300" />
 
+<video 
+  src="https://user-images.githubusercontent.com/87340383/186289322-ed360654-266f-4bd0-badc-69378fc30f4a.mp4" 
+  width="300"
+  height="300"
+  autoplay
+  controls=false
+/>
 
 
 
