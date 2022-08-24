@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :man_technologist: About Me
+### 👨‍💻 About Me
 
 I'm an aspiring Full Stack Software Engineer from Los Angeles.
 
@@ -11,7 +11,7 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
 
 ---
 
-### :hammer_and_wrench: Languages, Tools, & Technologies
+### 🛠️ Languages, Tools, & Technologies
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" width="40" height="40" />&nbsp;
@@ -35,7 +35,15 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jbertalli&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 </div>
 
+---
+
+### 💻 Examples of Work
+
 <img src="https://github.com/Jbertalli/Jbertalli/blob/main/ipad_recording.gif?raw=true" width="300" />
+
+
+
+
 
 <!--
 
