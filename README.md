@@ -39,10 +39,10 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
 
 ### 💻 Examples of Work
 
-<img src="https://github.com/Jbertalli/Jbertalli/blob/main/ipad_recording.gif?raw=true" width="300" />
----
-<img src"https://github.com/Jbertalli/Jbertalli/blob/main/advert.gif?raw=true" width="300" />
-
+<span>
+  <img src="https://github.com/Jbertalli/Jbertalli/blob/main/ipad_recording.gif?raw=true" width="300" />
+  <img src="https://github.com/Jbertalli/Jbertalli/blob/main/advert.gif?raw=true" width="300" />
+</span>
 
 
 <!--
