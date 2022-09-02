@@ -42,19 +42,6 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
 
 ### 💻 Examples of Work
 
-<!--
-<span>
-  <b>
-    <div>Apple Website Clone</div>
-    <img src="https://github.com/Jbertalli/Jbertalli/blob/main/ipad_recording.gif?raw=true" width="300" />
-    <div><b>Advertisement Generator</b></div>
-    <img src="https://github.com/Jbertalli/Jbertalli/blob/main/advert.gif?raw=true" width="300" />
-    <div><b>HealthStat.com</b></div>
-    <img src="https://github.com/Jbertalli/Jbertalli/blob/main/hs.gif?raw=true" width="300" />
-  </b>
-</span>
--->
-
 <table>
   <tr>
     <th>
