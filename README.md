@@ -54,7 +54,7 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
       HealthStat.com
     </th>
 <!--     <th>
-      Reverse Location
+      Reverse Geolocation
     </th> -->
   </tr>
   <tr>
