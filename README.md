@@ -60,7 +60,7 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/Jbertalli/Jbertalli/blob/main/ipad_recording.gif?raw=true" width="300" />
+      <img src="https://github.com/Jbertalli/Jbertalli/blob/main/ipad_recording1.gif?raw=true" width="300" />
     </td>
     <td>
       <img src="https://github.com/Jbertalli/Jbertalli/blob/main/advert.gif?raw=true" width="300" />
@@ -71,9 +71,7 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
   </tr>
   <tr>
     <td>
-      <link href="https://www.cssclone.com">
-        cssclone.com
-      </link>
+      [cssclone.com](https://www.cssclone.com/)
     </td
   </tr>
 </table>
