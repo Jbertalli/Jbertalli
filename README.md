@@ -54,9 +54,11 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
     <th>
       HealthStat.com
     </th>
-<!--     <th>
-      Reverse Geolocation
-    </th> -->
+  </tr>
+  <tr>
+    <td>
+      www.cssclone.com
+    </td>
   </tr>
   <tr>
     <td>
@@ -68,11 +70,6 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
     <td>
       <img src="https://github.com/Jbertalli/Jbertalli/blob/main/hs.gif?raw=true" width="300" />
     </td>
-  </tr>
-  <tr>
-    <td>
-      [cssclone.com](https://www.cssclone.com/)
-    </td
   </tr>
 </table>
   
