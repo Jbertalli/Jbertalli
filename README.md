@@ -71,6 +71,9 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
     <td>
        <img src="Screen Recording 2023-03-27 at 1.01.32 PM.mov?raw=true" width="300" />
     </td>
+    <video width="320" height="240" controls>
+      <source src="Screen Recording 2023-03-27 at 1.01.32 PM.mov?raw=true" type="video/mov">
+    </video>
   </tr>
 </table>
   
