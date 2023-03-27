@@ -68,9 +68,9 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
     <td>
       <img src="https://github.com/Jbertalli/Jbertalli/blob/main/hs.gif?raw=true" width="300" />
     </td>
-<!--     <td>
-       <img src="" width="300" />
-    </td> -->
+    <td>
+       <img src="Screen Recording 2023-03-27 at 1.01.32 PM.mov?raw=true" width="300" />
+    </td>
   </tr>
 </table>
   
