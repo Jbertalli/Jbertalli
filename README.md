@@ -78,12 +78,10 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
 </table>
   
   
-<!--
-
 ---
 
 ### 🔥 My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jbertalli&theme=dark&background=000000)](https://git.io/streak-stats)
 
--->
+
