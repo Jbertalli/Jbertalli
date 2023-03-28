@@ -71,6 +71,12 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
     <td align="center">
       www.healthstatcalculator.com
     </td>
+    <td align="center">
+      www.testandgrade.com
+    </td>
+    <td align="center">
+      www.advertisementgenerator.com
+    </td>
   </tr>
   <tr>
     <td>
