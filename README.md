@@ -59,8 +59,6 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
     <td align="center">
       www.cssclone.com
     </td>
-  </tr>
-   <tr>
     <td align="center">
       www.antinodelocation.com
     </td>
@@ -82,8 +80,6 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
     <td align="center">
       <img src="https://github.com/Jbertalli/Jbertalli/blob/main/mobile_ipad_recording.gif?raw=true" width="150" />
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://github.com/Jbertalli/Jbertalli/blob/main/mobile_antinode.gif?raw=true" width="150" />
     </td>
