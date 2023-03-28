@@ -54,6 +54,12 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
     <th>
       HealthStatCalculator.com
     </th>
+    <th>
+      Testandgrade.com
+    </th>
+    <th>
+      Advertisementgenerator.com
+    </th>
   </tr>
   <tr>
     <td align="center">
@@ -82,7 +88,16 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
       Mobile Apple Website Clone
     </th>
     <th>
-      Mobile antinodelocation.com
+      Mobile Antinodelocation.com
+    </th>
+    <th>
+      Mobile HealthStatCalculator.com
+    </th>
+    <th>
+      Mobile Testandgrade.com
+    </th>
+    <th>
+      Mobile Advertisementgenerator.com
     </th>
   </tr>
   <tr>
