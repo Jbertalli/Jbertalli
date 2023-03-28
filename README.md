@@ -80,7 +80,7 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/Jbertalli/Jbertalli/blob/main/?raw=true" width="300" />
+      <img src="https://github.com/Jbertalli/Jbertalli/blob/main/ipad.gif?raw=true" width="300" />
     </td>
     <td>
       <img src="https://github.com/Jbertalli/Jbertalli/blob/main/?raw=true" width="300" />
