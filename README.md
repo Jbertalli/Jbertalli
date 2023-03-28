@@ -49,7 +49,7 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
       Apple Website Clone
     </th>
     <th>
-      Advertisement Generator
+      antinodelocation.com
     </th>
     <th>
       HealthStat.com
@@ -58,6 +58,11 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
   <tr>
     <td align="center">
       www.cssclone.com
+    </td>
+  </tr>
+   <tr>
+    <td align="center">
+      www.antinodelocation.com
     </td>
   </tr>
   <tr>
@@ -69,10 +74,18 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
     <th>
       Mobile Apple Website Clone
     </th>
+    <th>
+      Mobile antinodelocation.com
+    </th>
   </tr>
   <tr>
     <td align="center">
       <img src="https://github.com/Jbertalli/Jbertalli/blob/main/mobile_ipad_recording.gif?raw=true" width="150" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Jbertalli/Jbertalli/blob/main/mobile_antinode.gif?raw=true" width="150" />
     </td>
   </tr>
 </table>
