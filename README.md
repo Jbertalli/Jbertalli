@@ -96,6 +96,23 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
       <img src="https://github.com/Jbertalli/Jbertalli/blob/main/mobile_HealthStat.gif?raw=true" width="150" />
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Jbertalli/Jbertalli/blob/main/appleqrcode?raw=true" width="150" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/Jbertalli/Jbertalli/blob/main/antinodeqrcode?raw=true" width="150" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/Jbertalli/Jbertalli/blob/main/hsqrcode?raw=true" width="150" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/Jbertalli/Jbertalli/blob/main/earnqrcode?raw=true" width="150" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/Jbertalli/Jbertalli/blob/main/testqrcode?raw=true" width="150" />
+    </td>
+  </tr>
 </table>
   
   
