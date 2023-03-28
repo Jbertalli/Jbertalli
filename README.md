@@ -52,7 +52,7 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
       antinodelocation.com
     </th>
     <th>
-      HealthStat.com
+      HealthStatCalculator.com
     </th>
   </tr>
   <tr>
@@ -61,6 +61,9 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
     </td>
     <td align="center">
       www.antinodelocation.com
+    </td>
+    <td align="center">
+      www.healthstatcalculator.com
     </td>
   </tr>
   <tr>
@@ -82,6 +85,9 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
     </td>
     <td align="center">
       <img src="https://github.com/Jbertalli/Jbertalli/blob/main/mobile_antinode.gif?raw=true" width="150" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/Jbertalli/Jbertalli/blob/main/mobile_HealthStat.gif?raw=true" width="150" />
     </td>
   </tr>
 </table>
