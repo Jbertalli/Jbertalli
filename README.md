@@ -70,6 +70,12 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
     <td>
       <img src="https://github.com/Jbertalli/Jbertalli/blob/main/ipad_recording1.gif?raw=true" width="300" />
     </td>
+    <td>
+      Antinode GIF
+    </td>
+    <td>
+      <img src="https://github.com/Jbertalli/Jbertalli/blob/main/healthstat.gif?raw=true" width="300" />
+    </td>
   </tr>
   <tr>
     <th>
