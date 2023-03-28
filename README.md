@@ -118,6 +118,23 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
     </td>
   </tr>
   <tr>
+    <th>
+      Apple Website Clone QR Code
+    </th>
+    <th>
+      Antinodelocation.com QR Code
+    </th>
+    <th>
+      HealthStatCalculator.com QR Code
+    </th>
+    <th>
+      Testandgrade.com QR Code
+    </th>
+    <th>
+      Advertisementgenerator.com QR Code
+    </th>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://github.com/Jbertalli/Jbertalli/blob/main/?raw=true" width="150" />
     </td>
