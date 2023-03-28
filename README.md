@@ -66,6 +66,9 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
     </td>
   </tr>
   <tr>
+    Mobile Apple Website Clone
+  </tr>
+  <tr>
     <td>
       <img src="https://github.com/Jbertalli/Jbertalli/blob/main/mobile_ipad_recording.gif?raw=true" width="300" />
     </td>
