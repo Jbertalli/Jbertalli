@@ -56,7 +56,7 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
     </th>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       www.cssclone.com
     </td>
   </tr>
