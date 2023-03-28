@@ -148,7 +148,7 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
       <img src="https://github.com/Jbertalli/Jbertalli/blob/main/?raw=true" width="150" />
     </td>
     <td align="center">
-      <img src="https://github.com/Jbertalli/Jbertalli/blob/main/?raw=true" width="150" />
+      <img src="https://github.com/Jbertalli/Jbertalli/blob/main/earn.png?raw=true" width="150" />
     </td>
   </tr>
 </table>
