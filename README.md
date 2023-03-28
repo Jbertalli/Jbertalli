@@ -49,7 +49,7 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
       Apple Website Clone
     </th>
     <th>
-      antinodelocation.com
+      Antinodelocation.com
     </th>
     <th>
       HealthStatCalculator.com
