@@ -66,7 +66,9 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
     </td>
   </tr>
   <tr>
-    Mobile Apple Website Clone
+    <th>
+      Mobile Apple Website Clone
+    </th>
   </tr>
   <tr>
     <td>
