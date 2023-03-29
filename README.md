@@ -69,13 +69,13 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
       Allows users to find their current location, antinode location (exact opposite point on earth), and other location metadata.
     </td>
     <td>
-      HealthStatCalculator.com
+      Users can get instant results from various health and finance calculators: recommended daily caloric intake, body mass index, body fat percentage, loan, and compound interest.
     </td>
     <td>
       Allows users to generate custom interactive tests that are automatically graded and returned to students via email.
     </td>
     <td>
-      Advertisementgenerator.com
+      Custom advertisement generator for earnandtrade.com.
     </td>
   </tr>
   <tr>
