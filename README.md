@@ -63,19 +63,29 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
   </tr>
   <tr>
     <td>
-      Highly detailed clone of Apple.com’s experience of purchasing the iPad Air. Allows users to purchase a customized iPad Air, view purchase history, and delete purchases.
+      <sub>
+        Highly detailed clone of Apple.com’s experience of purchasing the iPad Air. Allows users to purchase a customized iPad Air, view purchase history, and delete purchases.
+      </sub>
     </td>
     <td>
-      Allows users to find their current location, antinode location (exact opposite point on earth), and other location metadata.
+      <sub>
+        Allows users to find their current location, antinode location (exact opposite point on earth), and other location metadata.
+      </sub>
     </td>
     <td>
-      Users can get instant results from various health and finance calculators: recommended daily caloric intake, body mass index, body fat percentage, loan, and compound interest.
+      <sub>
+        Users can get instant results from various health and finance calculators: recommended daily caloric intake, body mass index, body fat percentage, loan, and compound interest.
+      </sub>
     </td>
     <td>
-      Allows users to generate custom interactive tests that are automatically graded and returned to students via email.
+      <sub>
+        Allows users to generate custom interactive tests that are automatically graded and returned to students via email.
+      </sub>
     </td>
     <td>
-      Custom advertisement generator for earnandtrade.com.
+      <sub>
+        Custom advertisement generator for earnandtrade.com.
+      </sub>
     </td>
   </tr>
   <tr>
