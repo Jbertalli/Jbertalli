@@ -122,6 +122,12 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
     <td align="center">
       <img src="https://github.com/Jbertalli/Jbertalli/blob/main/mobile_HealthStat.gif?raw=true" width="150" />
     </td>
+    <td align="center">
+      <img src="https://github.com/Jbertalli/Jbertalli/blob/main/?raw=true" width="150" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/Jbertalli/Jbertalli/blob/main/mobile_ad.gif?raw=true" width="150" />
+    </td>
   </tr>
   <tr>
     <th>
