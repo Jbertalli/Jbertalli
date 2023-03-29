@@ -62,6 +62,23 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
     </th>
   </tr>
   <tr>
+    <td>
+      Highly detailed clone of Apple.com’s experience of purchasing the iPad Air. Allows users to purchase a customized iPad Air, view purchase history, and delete purchases.
+    </td>
+    <td>
+      Allows users to find their current location, antinode location (exact opposite point on earth), and other location metadata.
+    </td>
+    <td>
+      HealthStatCalculator.com
+    </td>
+    <td>
+      Allows users to generate custom interactive tests that are automatically graded and returned to students via email.
+    </td>
+    <td>
+      Advertisementgenerator.com
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       www.cssclone.com
     </td>
