@@ -116,7 +116,7 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
       <img src="https://github.com/Jbertalli/Jbertalli/blob/main/health.gif?raw=true" width="300" />
     </td>
     <td>
-      <img src="https://github.com/Jbertalli/Jbertalli/blob/main/?raw=true" width="300" />
+      <img src="https://github.com/Jbertalli/Jbertalli/blob/main/test.gif?raw=true" width="300" />
     </td>
     <td>
       <img src="https://github.com/Jbertalli/Jbertalli/blob/main/ad.gif?raw=true" width="300" />
