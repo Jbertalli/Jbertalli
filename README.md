@@ -175,7 +175,7 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/Jbertalli/Jbertalli/blob/main/appleQR.png?raw=true" width="150" />
+      <img src="https://github.com/Jbertalli/Jbertalli/blob/main/ipadQR.png?raw=true" width="150" />
     </td>
     <td align="center">
       <img src="https://github.com/Jbertalli/Jbertalli/blob/main/antinodeQR.png?raw=true" width="150" />
