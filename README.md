@@ -191,7 +191,13 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
     </td>
   </tr>
 </table>
-  
+
+---
+
+### 💻 Visuals
+<table>
+
+</table>
   
 <!--
 ---
