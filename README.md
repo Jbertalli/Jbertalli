@@ -209,7 +209,7 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
     <img src="https://github.com/Jbertalli/Jbertalli/blob/main/flat.png?raw=true" width="90" />
   </td>
   <td align="center">
-    <img src="https://github.com/Jbertalli/Jbertalli/blob/main/404.png?raw=true" width="90" />
+    <img src="https://github.com/Jbertalli/Jbertalli/blob/main/404.gif?raw=true" width="90" />
   </td>
   <td align="center">
     <img src="https://github.com/Jbertalli/Jbertalli/blob/main/hslogo.png?raw=true" width="90" />
@@ -220,9 +220,6 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
   <td align="center">
     <img src="https://github.com/Jbertalli/Jbertalli/blob/main/testgeneratorlogo.png?raw=true" width="90" />
   </td>
-  <td align="center">
-      <img src="https://github.com/Jbertalli/Jbertalli/blob/main/404.gif?raw=true" width="150" />
-    </td>
 </table>
   
 <!--
