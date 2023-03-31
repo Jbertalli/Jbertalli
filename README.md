@@ -197,34 +197,25 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
 ### 📷 Visuals
 <table>
   <td align="center">
-    <img src="https://github.com/Jbertalli/Jbertalli/blob/main/?raw=true" width="90" />
+    <img src="https://github.com/Jbertalli/Jbertalli/blob/main/flower.png?raw=true" width="90" />
   </td>
   <td align="center">
-    <img src="https://github.com/Jbertalli/Jbertalli/blob/main/?raw=true" width="90" />
+    <img src="https://github.com/Jbertalli/Jbertalli/blob/main/fan.png?raw=true" width="90" />
   </td>
   <td align="center">
-    <img src="https://github.com/Jbertalli/Jbertalli/blob/main/?raw=true" width="90" />
+    <img src="https://github.com/Jbertalli/Jbertalli/blob/main/front+back.png?raw=true" width="90" />
   </td>
   <td align="center">
-    <img src="https://github.com/Jbertalli/Jbertalli/blob/main/?raw=true" width="90" />
+    <img src="https://github.com/Jbertalli/Jbertalli/blob/main/flat.png?raw=true" width="90" />
   </td>
   <td align="center">
-    <img src="https://github.com/Jbertalli/Jbertalli/blob/main/?raw=true" width="90" />
+    <img src="https://github.com/Jbertalli/Jbertalli/blob/main/404.png?raw=true" width="90" />
   </td>
   <td align="center">
-    <img src="https://github.com/Jbertalli/Jbertalli/blob/main/?raw=true" width="90" />
+    <img src="https://github.com/Jbertalli/Jbertalli/blob/main/hslogo.png?raw=true" width="90" />
   </td>
   <td align="center">
-    <img src="https://github.com/Jbertalli/Jbertalli/blob/main/?raw=true" width="90" />
-  </td>
-  <td align="center">
-    <img src="https://github.com/Jbertalli/Jbertalli/blob/main/?raw=true" width="90" />
-  </td>
-  <td align="center">
-    <img src="https://github.com/Jbertalli/Jbertalli/blob/main/?raw=true" width="90" />
-  </td>
-  <td align="center">
-    <img src="https://github.com/Jbertalli/Jbertalli/blob/main/?raw=true" width="90" />
+    <img src="https://github.com/Jbertalli/Jbertalli/blob/main/antinode_logo.png?raw=true" width="90" />
   </td>
 </table>
   
