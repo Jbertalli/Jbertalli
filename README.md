@@ -194,7 +194,7 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
 
 ---
 
-### 💻 Visuals
+### 📷 Visuals
 <table>
   <td align="center">
     <img src="https://github.com/Jbertalli/Jbertalli/blob/main/?raw=true" width="90" />
