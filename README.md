@@ -99,7 +99,7 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
       www.healthstatcalculator.com
     </td>
     <td align="center">
-      test-template-tau.vercel.app
+      test-template-tau.vercel.com
     </td>
     <td align="center">
       www.advertisementgenerator.com
