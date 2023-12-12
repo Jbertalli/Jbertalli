@@ -49,16 +49,16 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
       Apple Website Clone
     </th>
     <th>
-      Antinodelocation.com
+      Antinode Location
     </th>
     <th>
-      HealthStatCalculator.com
+      HealthStat Calculator
     </th>
     <th>
-      Testandgrade.com
+      Test and Grade Generator
     </th>
     <th>
-      Advertisementgenerator.com
+      Advertisement Generator
     </th>
   </tr>
   <tr>
@@ -127,16 +127,16 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
       Mobile Apple Website Clone
     </th>
     <th>
-      Mobile Antinodelocation.com
+      Mobile Antinode Location
     </th>
     <th>
-      Mobile HealthStatCalculator.com
+      Mobile HealthStat Calculator
     </th>
     <th>
-      Mobile Testandgrade.com
+      Mobile Test and Grade Generator
     </th>
     <th>
-      Mobile Advertisementgenerator.com
+      Mobile Advertisement Generator
     </th>
   </tr>
   <tr>
