@@ -156,21 +156,21 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
       <img src="https://github.com/Jbertalli/Jbertalli/blob/main/mobile_ad.gif?raw=true" width="150" />
     </td>
   </tr>
-  <tr>
+<!--   <tr>
     <th>
       Apple Website Clone QR Code
     </th>
     <th>
-      Antinodelocation.com QR Code
+      Antinode Location QR Code
     </th>
     <th>
-      HealthStatCalculator.com QR Code
+      HealthStat Calculator QR Code
     </th>
     <th>
-      Testandgrade.com QR Code
+      Test and Grade Generator QR Code
     </th>
     <th>
-      Advertisementgenerator.com QR Code
+      Advertisement Generator QR Code
     </th>
   </tr>
   <tr>
@@ -189,7 +189,7 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
     <td align="center">
       <img src="https://github.com/Jbertalli/Jbertalli/blob/main/earnQR.png?raw=true" width="150" />
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 ---
