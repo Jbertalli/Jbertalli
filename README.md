@@ -88,7 +88,7 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
       </sub>
     </td>
   </tr>
-  <tr>
+<!--   <tr>
     <td align="center">
       www.cssclone.com
     </td>
@@ -99,12 +99,12 @@ I'm an aspiring Full Stack Software Engineer from Los Angeles.
       www.healthstatcalculator.com
     </td>
     <td align="center">
-      test-template-tau.vercel.com
+      testandgrade.com
     </td>
     <td align="center">
       www.advertisementgenerator.com
     </td>
-  </tr>
+  </tr> -->
   <tr>
     <td>
       <img src="https://github.com/Jbertalli/Jbertalli/blob/main/ipad.gif?raw=true" width="300" />
